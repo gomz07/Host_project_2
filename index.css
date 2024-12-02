@@ -98,6 +98,7 @@ button:hover {
     gap: 4px;
     align-items: center;
     justify-content:center;
+    text-align:center;
     }
     .c2 p,
     .c4 p,
