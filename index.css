@@ -93,6 +93,12 @@ button:hover {
     h1 {
         font-size: 24px;
     }
+    .c1 ,.c2 ,.c3 ,.c4 {
+    display: flex; 
+    gap: 4px;
+    align-items: center;
+    justify-content:center;
+    }
     .c2 p,
     .c4 p,
     form input,
